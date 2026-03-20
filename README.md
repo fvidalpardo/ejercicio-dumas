@@ -30,3 +30,7 @@ npm run build
 ```shell
 npm start
 ```
+
+### Diagrama MongoDB
+
+(mongodb_diagram.png)
