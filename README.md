@@ -33,4 +33,4 @@ npm start
 
 ### Diagrama MongoDB
 
-(mongodb_diagram.png)
+![Diagrama](imagen.png)
